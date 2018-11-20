@@ -12,7 +12,7 @@ The Open Source Coordinator
 
     - [Security](quick-start/security.md)
     
-    - [Installation](quick-start/Installation.md)
+    - [Compass Installation](quick-start/Installation.md)
 
     - [Private Tangle Installation](quick-start/PrivateTangleInstallation.md)
   
