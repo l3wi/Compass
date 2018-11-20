@@ -1,5 +1,5 @@
 # Compass
-Open Source Coordinator
+The Open Source Coordinator
 
 ## Documentation
 - Introduction
@@ -14,11 +14,10 @@ Open Source Coordinator
     
     - [Installation](quick-start/installation.md)
 
-
--Knowledge Base
-
+  
+- Knowledge Base
     - [Compass Architecture](knowledge-base/compass-architecture.md)
-
+    
     - [Compass Functions](knowledge-base/compass-functions.md)
-
+    
     - [Contribute](knowledge-base/contribute.md)
