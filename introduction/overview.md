@@ -6,13 +6,13 @@ However, Tangle developers realized that if an attacker exploited the PoW and to
  
 Enter the “Coordinator”, a safety mechanism.  Such safety mechanisms are common in blockchain and DLT systems.  For example, Satoshi’s Bitcoin had hard-coded checkpoints plus an alerts system for him to shut down the network if necessary.
  
-Initially a single coordinator, referred to as the **C**oordinator, was run by IOTA Foundation.  It issued a normal signed transaction called a “milestone”.  Consensus was achieved by a transaction being confirmed, if and only if, it was referenced by a milestone.  
+Initially a single coordinator, referred to as the **C**oordinator, was run by IOTA Foundation.  It issued a normal, signed transaction called a “milestone”.  Consensus was achieved by a transaction being confirmed, if and only if, it were referenced by a milestone.  
 
 The Coordinator prevented double spends until the network gained enough hashing power to be intrinsically secure.  As the Tangle gains critical mass, a single coordinator will no longer be required.
  
 ### Replacing the Coordinator
 
-Considerable research is underway towards a secure replacement for the Coordinator.  The first step, is releasing Compass, an open source coordinator.  Compass allows public nodes to generate milestones.  If an invalid milestone is released, then peer nodes will reject it.  Nodes can be ranked based on their reputation for releasing valid milestones.  
+Considerable research is underway towards a secure replacement for the Coordinator.  Releasing Compass, an open source coordinator, will further this research.  Compass allows research or test nodes to generate milestones.  If an invalid milestone is released, then their peer nodes will reject it.  In the future, nodes can be ranked based on their reputation for releasing valid milestones.  
 
 ### Node Reputation
  
@@ -26,8 +26,5 @@ Research is also underway into the best tip selection method.
 
 ### Private Tangle
 
-Compass also makes it possible to create a private Tangle.
-
-
- 
+Compass also makes it possible to create a private Tangle.  A private Tangle can be used by researchers, product developers, and anyone studying the Tangle as a whole.
 
