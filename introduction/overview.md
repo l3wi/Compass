@@ -18,15 +18,15 @@ Considerable research is underway towards a secure replacement for the Coordinat
  
 Nodes can be ranked by adapting a page ranking algorithm.  This type of ranking has been applied to Gnutella file-sharing network allowing users to make informed judgments of authenticity before downloading content.  The goal is to avoid the PoW race while making it impossible to double spend, as well as, penalizing spammers.
 
-Nodes that achieve a high level of trustworthiness are called "Stars".  Stars issue reference transactions much like the IOTA Coordinator milestones, but the constellation of Stars is decentralized.
+Nodes that achieve a high level of trustworthiness are called "Stars".  Stars issue reference transactions much like the IOTA Coordinator milestones.  However, the constellation of Stars is decentralized thus moving towards peer-to-peer governance.
 
 ### Tip Selection
  
-Research is also underway into the best tip selection.
+Research is also underway into the best tip selection method.
 
 ### Private Tangle
 
-Compass makes it possible to create a private Tangle.
+Compass also makes it possible to create a private Tangle.
 
 
  
