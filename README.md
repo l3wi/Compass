@@ -14,6 +14,7 @@ The Open Source Coordinator
     
     - [Installation](quick-start/Installation.md)
 
+    - [Private Tangle Installation](quick-start/PrivateTangleInstallation.md)
   
 - Knowledge Base
     - [Compass Architecture](knowledge-base/compass-architecture.md)
