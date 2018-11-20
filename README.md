@@ -2,12 +2,14 @@
 Open Source Coordinator
 
 ## Introduction
+- Introduction
 
     - [Overview](introduction/overview.md)
     
     - [Use Cases](introduction/usecases.md)
 
 ## Quick Start
+- Quick Start
 
     - [Security](quick-start/security.md)
     
@@ -15,8 +17,10 @@ Open Source Coordinator
 
 ## Knowledge Base
 
-    - [Compass Architecture](knowledgebase/architecture.md)
+-Knowledge Base
 
-    - [Compass Functions](knowledgebase/functions.md)
+    - [Architecture](knowledgebase/architecture.md)
 
-    - [Compass Architecture](knowledgebase/contribute.md)
+    - [Functions](knowledgebase/functions.md)
+
+    - [Contributions](knowledgebase/contribute.md)
