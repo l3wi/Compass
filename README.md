@@ -12,7 +12,7 @@ The Open Source Coordinator
 
     - [Security](quick-start/security.md)
     
-    - [Installation](quick-start/installation.md)
+    - [Installation](quick-start/Installation.md)
 
   
 - Knowledge Base
