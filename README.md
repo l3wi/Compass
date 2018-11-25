@@ -11,12 +11,11 @@ Compass is an open-source implementation of an IOTA Network coordinator.
 - Quick Start
 
     - [Security](quick-start/security.md)
-    - [Compass Installation](quick-start/Installation.md)
-    - [Private Tangle Installation](quick-start/PrivateTangleInstallation.md)
+    - [Simple Setup](quick-start/simple-setup.md)
   
 - Knowledge Base
-    - [Compass Architecture](knowledge-base/compass-architecture.md)
-    - [Compass Functions](knowledge-base/compass-functions.md)
+    - [Compass Architecture](knowledge-base/architecture.md)
+    - [Compass Functions](knowledge-base/functions.md)
     - [Contribute](knowledge-base/contribute.md)
 
 - API Reference 
